@@ -1,4 +1,4 @@
-# Hand-Written-digits-classification-using-PCA-and-CNNs
+# Hand-Written-digits-rcognition-using-PCA-and-CNNs
 
 **Principal Component Properties**
 There are two main properties of principal components:
